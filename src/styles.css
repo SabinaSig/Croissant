@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  background-color: #f0dfb1;
 }
 
 p {
@@ -7,10 +8,22 @@ p {
 }
 
 li {
-  text-decoration: none;
-  color: brown;
+  display: inline;
+  margin: 10px;
 }
 
 ul {
-  display: block;
+  list-style: none;
+  padding: 10px;
+  margin: 10px;
+}
+
+a {
+  color: orange;
+}
+
+img {
+  border: 1px solid #efefef;
+  border-radius: 15px;
+  max-width: 70%;
 }
