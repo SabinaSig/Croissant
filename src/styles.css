@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+p {
+  color: brown;
+}
+
+li {
+  text-decoration: none;
+  color: brown;
+}
+
+ul {
+  display: block;
+}
