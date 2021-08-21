@@ -3,10 +3,6 @@ body {
   background-color: #f0dfb1;
 }
 
-p {
-  color: brown;
-}
-
 li {
   display: inline;
   margin: 10px;
